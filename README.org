@@ -1,0 +1,4 @@
+#+TITLE: Internal Air Quality sensor data analysis
+
+This is a simple collection of scripts to look at data from indoor air quality sensors. At the moment this is just focused on plotting data from the [[https://aranet4.com/][Aranet4]] CO2 sensor. 
+
